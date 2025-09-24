@@ -97,7 +97,7 @@ Frameworks_Assignment/
 ## **Screenshots**
 
 **Dashboard Overview**
-![Dashboard Example](assets\Screenshot.jpeg)
+![Dashboard Example](assets/Screenshot.jpeg)
 
 ## **Learning Outcomes**
 
