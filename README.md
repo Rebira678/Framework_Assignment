@@ -97,7 +97,7 @@ Frameworks_Assignment/
 ## **Screenshots**
 
 **Dashboard Overview**
-![Dashboard Example](https://user-images.githubusercontent.com/your-username/dashboard-screenshot.png)
+![Dashboard Example](assets\Screenshot.jpeg)
 
 ## **Learning Outcomes**
 
